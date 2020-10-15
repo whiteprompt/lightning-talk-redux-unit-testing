@@ -1,5 +1,6 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Example used in Lightning Talk: Cómo escribir tests unitarios  de aplicaciones redux (actions & thunks)
 
+Source code using during the presentation of the [Lighning Talk: Cómo escribir tests unitarios  de aplicaciones redux (actions & thunks)](https://youtu.be/3ehDwdH_0N8).
 ## Available Scripts
 
 In the project directory, you can run:
